@@ -7,7 +7,7 @@
 
 4.[2,6,16,18,22,27]
 
-## BigO göstrimi: nlogn'dir.
+## Big O göstrimi: n^2'dir.
 
 **Eğer aradığımız sayı 18 olsaydı, baştaki sıralamaya göre son taraflarda olduğu için Worst Case Time Complexity olurdu.
 
